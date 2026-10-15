@@ -1,0 +1,12 @@
+{
+  "name": "sirimath-whatsapp-appeal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SIRIMATH account review appeal helper for Vercel",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  }
+}
